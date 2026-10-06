@@ -1,0 +1,20 @@
+2026-10-06 15:43:14,538 INFO message sent via ntfy (50 chars)
+2026-10-06 15:44:05,073 WARNING no ANTHROPIC_API_KEY: sending headline-only digest
+2026-10-06 15:44:05,179 INFO message sent via ntfy (1040 chars)
+2026-10-06 15:44:56,363 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-06 15:44:56,365 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-06 15:44:56,365 INFO newsbot running: digest at 09:00 America/New_York, breaking check every 10 min via ntfy
+2026-10-06 15:44:56,367 INFO Added job "send_digest" to job store "default"
+2026-10-06 15:44:56,367 INFO Added job "check_breaking" to job store "default"
+2026-10-06 15:44:56,367 INFO Scheduler started
+2026-10-06 15:44:56,367 INFO Running job "check_breaking (trigger: interval[0:10:00], next run at: 2026-10-06 15:54:56 EDT)" (scheduled at 2026-10-06 15:44:56.365805-04:00)
+2026-10-06 15:44:59,653 INFO seeded 158 existing items; alerts start next check
+2026-10-06 15:44:59,654 INFO Job "check_breaking (trigger: interval[0:10:00], next run at: 2026-10-06 15:54:56 EDT)" executed successfully
+2026-10-06 15:45:09,813 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-06 15:45:09,814 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-06 15:45:09,814 INFO newsbot running: digest at 09:00 America/New_York, breaking check every 10 min via ntfy
+2026-10-06 15:45:09,814 INFO Added job "send_digest" to job store "default"
+2026-10-06 15:45:09,814 INFO Added job "check_breaking" to job store "default"
+2026-10-06 15:45:09,814 INFO Scheduler started
+2026-10-06 15:45:09,814 INFO Running job "check_breaking (trigger: interval[0:10:00], next run at: 2026-10-06 15:55:09 EDT)" (scheduled at 2026-10-06 15:45:09.814221-04:00)
+2026-10-06 15:45:13,183 INFO Job "check_breaking (trigger: interval[0:10:00], next run at: 2026-10-06 15:55:09 EDT)" executed successfully

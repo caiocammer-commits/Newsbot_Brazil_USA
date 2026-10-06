@@ -1,0 +1,6 @@
+feedparser>=6.0
+requests>=2.31
+anthropic>=0.40
+APScheduler>=3.10,<4
+python-dotenv>=1.0
+tzdata>=2024.1
